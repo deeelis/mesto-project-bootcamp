@@ -12,11 +12,11 @@
     height: 50px;
     width: 358px;
     padding: 0;
-    margin: 14px 0 18px;
+    margin: 14px 0 0;
 }
 
 .popup__save-button:hover {
-    opacity: .8;
+    background-color: rgba(0, 0, 0, .8);
 }
 
 @media (max-width: 845px) {

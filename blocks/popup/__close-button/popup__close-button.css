@@ -7,7 +7,7 @@
     height: 32px;
     background-image: url(../../../images/close-button.svg);
     cursor: pointer;
-    background-color: black;
+    background-color: transparent;
     border: none;
     outline: none;
 }
