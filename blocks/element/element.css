@@ -1,0 +1,8 @@
+.element {
+    display: grid;
+    grid-template-rows: 282px 79px;
+    max-width: 282px;
+    max-height: 361px;
+    border-radius: 10px;
+    background-color: white;
+}

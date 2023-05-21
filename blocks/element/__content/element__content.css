@@ -1,0 +1,7 @@
+.element__content {
+    display: grid;
+    grid-template-columns: 1fr 22px;
+    box-sizing: border-box;
+    align-items: center;
+    padding: 0 20px 0 21px;
+}
